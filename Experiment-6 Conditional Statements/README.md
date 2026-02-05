@@ -1,7 +1,9 @@
 # Experiment 6: Study of Conditional Statements in Python
 
 **Name:** Drishti Heda
+
 **PRN:** 25070123045
+
 **Batch:** EnTC A-3
 
 ---
