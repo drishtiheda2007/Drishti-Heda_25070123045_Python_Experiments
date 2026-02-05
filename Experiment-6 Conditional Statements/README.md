@@ -1,5 +1,17 @@
 # Experiment 6: Study of Conditional Statements in Python
 
+**Name:** Drishti Heda
+**PRN:** 25070123045
+**Batch:** EnTC A-3
+
+---
+
+## Title
+
+To study Conditional Statements in Python.
+
+---
+
 ## Aim
 
 To understand and implement conditional statements (`if`, `if-else`, `if-elif-else`) in Python for decision-making, logical comparisons, and branching control flow based on given conditions.
@@ -79,4 +91,3 @@ They improve program flexibility, efficiency, and logical clarity.
 ## Conclusion
 
 Conditional statements form the backbone of decision-making in Python programming. By using `if`, `if-else`, `if-elif-else`, and nested `if` statements, a program can respond intelligently to different inputs and situations. These constructs allow the programmer to control the flow of execution, apply logical reasoning, and handle real-world scenarios efficiently. Understanding conditional statements is essential for writing clear, flexible, and error-free programs.
-
