@@ -1,7 +1,9 @@
 # STUDY OF NUMPY LIBRARY (Python)
 
 **Name:** Drishti Heda
+
 **Branch:** EnTC A3
+
 **PRN:** 25070123045
 
 ---
@@ -9,8 +11,11 @@
 ## 📘 Title Page
 
 **Project Name:** Study of NumPy Library in Python
+
 **Purpose:** Understanding NumPy Arrays and Operations
+
 **Language:** Python
+
 
 ---
 
