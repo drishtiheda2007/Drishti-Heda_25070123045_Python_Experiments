@@ -1,6 +1,6 @@
 # 📊 DATASETS CREATION & LOADING USING PANDAS (Python)
 
-Name- Tanmay Agarwal\
+Name- Drishti Heda\
 Branch- EnTC A3\
 PRN- 25070123045
 
