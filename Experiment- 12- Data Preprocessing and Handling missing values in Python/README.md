@@ -1,9 +1,9 @@
 # 🧹 Data Preprocessing and Handling Missing Values in Python
 
 ## 👤 Student Details
-- **Name:** Tanmay Agarwal  
+- **Name:** Drishti Heda 
 - **Branch:** EnTC A3  
-- **PRN:** 25070123158  
+- **PRN:** 25070123045  
 
 ---
 
