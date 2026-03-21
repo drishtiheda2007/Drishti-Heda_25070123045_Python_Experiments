@@ -321,9 +321,3 @@
   - Simplifying complex datasets for analysis
                                                                                                
   ---                                                                                          
-  8. References                                                                                
-                                                                                               
-  - Pandas Documentation: https://pandas.pydata.org/docs/
-  - pd.cut() Reference: https://pandas.pydata.org/docs/reference/api/pandas.cut.html           
-  - Data Discretization:                                                                       
-  https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html#discretization  
