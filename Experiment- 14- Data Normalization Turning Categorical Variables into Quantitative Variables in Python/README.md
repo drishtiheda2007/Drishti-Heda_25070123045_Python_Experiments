@@ -4,8 +4,6 @@
 
 ## 🎓 Student Details
 
-| Details |
-
 | **Name** | Drishti Heda |
 | **PRN** | 25070123045 |
 | **Batch** | EnTC A3 |
